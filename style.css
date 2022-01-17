@@ -252,9 +252,7 @@ h1,h2,h3{
 }
 
 /* ########################### Footer page ######################### */
-
 #footer h2{
-    /* text-align: center; */
     font-size: 1.5rem;
     padding: 0.5rem;
     font-weight: 500;
