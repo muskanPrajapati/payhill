@@ -1,6 +1,6 @@
 # *Payhill*
 
-*This is a working landing page of payment gateway named Payhill, this project has been done in order to learn the basic working of a website by implementing HTML, CSS3, JavaScript. Working on this project helps to learn a lot of new things that goes into building a website. This is my solo project made under the guidence of THE SPARKS FOUNDATION team. * 
+*This is a working landing page of payment gateway named Payhill, this project has been done in order to learn the basic working of a website by implementing HTML, CSS3, JavaScript. Working on this project helps to learn a lot of new things that goes into building a website. This is my solo project made under the guidence of THE SPARKS FOUNDATION team.* 
 
 ## Deployed Link
 
